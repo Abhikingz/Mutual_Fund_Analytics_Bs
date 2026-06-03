@@ -1,0 +1,15 @@
+# Ignore local SQLite databases
+*.db
+*.sqlite3
+
+# Ignore raw data folders containing large CSV files
+data/raw/
+data/db/
+
+# Ignore Jupyter Notebook checkpoints and cache
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Ignore temporary local export figures
+reports/figures/*.png
