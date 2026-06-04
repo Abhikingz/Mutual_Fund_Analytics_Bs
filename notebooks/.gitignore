@@ -1,0 +1,12 @@
+# Ignore the large medical conversation dataset
+ai-medical-chatbot.csv
+*.csv
+
+# Ignore the heavy deep learning BERT vector cache file
+bert_embeddings_cache.npy
+*.npy
+
+# Ignore local Jupyter Notebook checkpoints and python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
