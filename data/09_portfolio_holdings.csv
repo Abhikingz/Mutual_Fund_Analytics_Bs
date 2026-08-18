@@ -1,0 +1,161 @@
+scheme_code,scheme_name,stock_name,sector,weight_pct,market_val_cr
+120123,SBI MF Large Cap Direct Growth,Reliance Industries,Financial Services,3.36,1161.64
+120123,SBI MF Large Cap Direct Growth,HDFC Bank,IT & Technology,6.06,1197.07
+120123,SBI MF Large Cap Direct Growth,ICICI Bank,Oil & Gas,5.11,628.29
+120123,SBI MF Large Cap Direct Growth,Infosys,Consumer Goods,6.93,314.91
+120123,SBI MF Large Cap Direct Growth,TCS,Telecommunication,9.13,392.98
+120123,SBI MF Large Cap Direct Growth,Larsen & Toubro,Construction,4.21,300.56
+120123,SBI MF Large Cap Direct Growth,Bharti Airtel,Financial Services,7.3,506.97
+120123,SBI MF Large Cap Direct Growth,ITC,IT & Technology,6.45,623.48
+120123,SBI MF Large Cap Direct Growth,Axis Bank,Oil & Gas,3.95,946.12
+120123,SBI MF Large Cap Direct Growth,State Bank of India,Consumer Goods,4.63,245.76
+120246,HDFC MF Mid Cap Direct Growth,Reliance Industries,Financial Services,5.46,1138.01
+120246,HDFC MF Mid Cap Direct Growth,HDFC Bank,IT & Technology,5.3,842.8
+120246,HDFC MF Mid Cap Direct Growth,ICICI Bank,Oil & Gas,8.06,918.9
+120246,HDFC MF Mid Cap Direct Growth,Infosys,Consumer Goods,6.77,286.78
+120246,HDFC MF Mid Cap Direct Growth,TCS,Telecommunication,9.22,974.52
+120246,HDFC MF Mid Cap Direct Growth,Larsen & Toubro,Construction,9.32,696.17
+120246,HDFC MF Mid Cap Direct Growth,Bharti Airtel,Financial Services,4.49,1108.9
+120246,HDFC MF Mid Cap Direct Growth,ITC,IT & Technology,4.54,237.87
+120246,HDFC MF Mid Cap Direct Growth,Axis Bank,Oil & Gas,3.18,170.99
+120246,HDFC MF Mid Cap Direct Growth,State Bank of India,Consumer Goods,4.56,374.12
+120369,ICICI Prudential Small Cap Direct Growth,Reliance Industries,Financial Services,8.93,526.53
+120369,ICICI Prudential Small Cap Direct Growth,HDFC Bank,IT & Technology,3.3,981.52
+120369,ICICI Prudential Small Cap Direct Growth,ICICI Bank,Oil & Gas,7.67,348.69
+120369,ICICI Prudential Small Cap Direct Growth,Infosys,Consumer Goods,5.89,520.84
+120369,ICICI Prudential Small Cap Direct Growth,TCS,Telecommunication,8.04,768.17
+120369,ICICI Prudential Small Cap Direct Growth,Larsen & Toubro,Construction,4.21,977.51
+120369,ICICI Prudential Small Cap Direct Growth,Bharti Airtel,Financial Services,6.77,1022.84
+120369,ICICI Prudential Small Cap Direct Growth,ITC,IT & Technology,8.72,1034.07
+120369,ICICI Prudential Small Cap Direct Growth,Axis Bank,Oil & Gas,4.04,1095.16
+120369,ICICI Prudential Small Cap Direct Growth,State Bank of India,Consumer Goods,3.86,335.94
+120492,Nippon India ELSS Direct Growth,Reliance Industries,Financial Services,8.45,999.32
+120492,Nippon India ELSS Direct Growth,HDFC Bank,IT & Technology,5.62,333.48
+120492,Nippon India ELSS Direct Growth,ICICI Bank,Oil & Gas,4.4,1172.74
+120492,Nippon India ELSS Direct Growth,Infosys,Consumer Goods,3.45,536.09
+120492,Nippon India ELSS Direct Growth,TCS,Telecommunication,7.12,962.75
+120492,Nippon India ELSS Direct Growth,Larsen & Toubro,Construction,7.43,527.16
+120492,Nippon India ELSS Direct Growth,Bharti Airtel,Financial Services,4.52,951.5
+120492,Nippon India ELSS Direct Growth,ITC,IT & Technology,5.76,271.45
+120492,Nippon India ELSS Direct Growth,Axis Bank,Oil & Gas,9.34,966.96
+120492,Nippon India ELSS Direct Growth,State Bank of India,Consumer Goods,7.1,498.17
+120615,Kotak Flexi Cap Direct Growth,Reliance Industries,Financial Services,8.35,400.53
+120615,Kotak Flexi Cap Direct Growth,HDFC Bank,IT & Technology,3.3,552.59
+120615,Kotak Flexi Cap Direct Growth,ICICI Bank,Oil & Gas,7.52,1141.48
+120615,Kotak Flexi Cap Direct Growth,Infosys,Consumer Goods,4.7,230.45
+120615,Kotak Flexi Cap Direct Growth,TCS,Telecommunication,4.55,930.97
+120615,Kotak Flexi Cap Direct Growth,Larsen & Toubro,Construction,6.36,888.04
+120615,Kotak Flexi Cap Direct Growth,Bharti Airtel,Financial Services,9.38,682.24
+120615,Kotak Flexi Cap Direct Growth,ITC,IT & Technology,3.58,1066.62
+120615,Kotak Flexi Cap Direct Growth,Axis Bank,Oil & Gas,3.75,572.88
+120615,Kotak Flexi Cap Direct Growth,State Bank of India,Consumer Goods,9.4,526.25
+120738,Axis Liquid Direct Growth,Reliance Industries,Financial Services,6.28,1175.39
+120738,Axis Liquid Direct Growth,HDFC Bank,IT & Technology,6.42,1140.44
+120738,Axis Liquid Direct Growth,ICICI Bank,Oil & Gas,5.11,256.1
+120738,Axis Liquid Direct Growth,Infosys,Consumer Goods,5.23,1084.05
+120738,Axis Liquid Direct Growth,TCS,Telecommunication,5.2,982.97
+120738,Axis Liquid Direct Growth,Larsen & Toubro,Construction,5.05,1193.39
+120738,Axis Liquid Direct Growth,Bharti Airtel,Financial Services,4.46,173.68
+120738,Axis Liquid Direct Growth,ITC,IT & Technology,8.2,657.02
+120738,Axis Liquid Direct Growth,Axis Bank,Oil & Gas,8.13,748.62
+120738,Axis Liquid Direct Growth,State Bank of India,Consumer Goods,5.83,704.98
+120861,Aditya Birla Sun Life Gilt Direct Growth,Reliance Industries,Financial Services,7.41,605.71
+120861,Aditya Birla Sun Life Gilt Direct Growth,HDFC Bank,IT & Technology,7.72,297.2
+120861,Aditya Birla Sun Life Gilt Direct Growth,ICICI Bank,Oil & Gas,7.43,815.17
+120861,Aditya Birla Sun Life Gilt Direct Growth,Infosys,Consumer Goods,8.63,470.82
+120861,Aditya Birla Sun Life Gilt Direct Growth,TCS,Telecommunication,4.75,865.82
+120861,Aditya Birla Sun Life Gilt Direct Growth,Larsen & Toubro,Construction,4.27,1133.96
+120861,Aditya Birla Sun Life Gilt Direct Growth,Bharti Airtel,Financial Services,7.64,901.98
+120861,Aditya Birla Sun Life Gilt Direct Growth,ITC,IT & Technology,8.96,735.29
+120861,Aditya Birla Sun Life Gilt Direct Growth,Axis Bank,Oil & Gas,9.17,440.51
+120861,Aditya Birla Sun Life Gilt Direct Growth,State Bank of India,Consumer Goods,5.34,975.93
+120984,UTI Multi Cap Direct Growth,Reliance Industries,Financial Services,6.9,740.71
+120984,UTI Multi Cap Direct Growth,HDFC Bank,IT & Technology,6.23,798.72
+120984,UTI Multi Cap Direct Growth,ICICI Bank,Oil & Gas,6.17,1041.44
+120984,UTI Multi Cap Direct Growth,Infosys,Consumer Goods,6.17,300.05
+120984,UTI Multi Cap Direct Growth,TCS,Telecommunication,4.65,1101.22
+120984,UTI Multi Cap Direct Growth,Larsen & Toubro,Construction,7.46,336.43
+120984,UTI Multi Cap Direct Growth,Bharti Airtel,Financial Services,6.15,811.89
+120984,UTI Multi Cap Direct Growth,ITC,IT & Technology,6.44,1188.35
+120984,UTI Multi Cap Direct Growth,Axis Bank,Oil & Gas,6.34,1125.03
+120984,UTI Multi Cap Direct Growth,State Bank of India,Consumer Goods,8.48,777.84
+121107,Mirae Asset Large Cap Direct Growth,Reliance Industries,Financial Services,5.52,1197.25
+121107,Mirae Asset Large Cap Direct Growth,HDFC Bank,IT & Technology,3.61,1035.19
+121107,Mirae Asset Large Cap Direct Growth,ICICI Bank,Oil & Gas,7.07,760.01
+121107,Mirae Asset Large Cap Direct Growth,Infosys,Consumer Goods,9.46,481.09
+121107,Mirae Asset Large Cap Direct Growth,TCS,Telecommunication,3.19,936.56
+121107,Mirae Asset Large Cap Direct Growth,Larsen & Toubro,Construction,3.61,466.28
+121107,Mirae Asset Large Cap Direct Growth,Bharti Airtel,Financial Services,9.49,530.77
+121107,Mirae Asset Large Cap Direct Growth,ITC,IT & Technology,6.09,472.34
+121107,Mirae Asset Large Cap Direct Growth,Axis Bank,Oil & Gas,9.25,435.01
+121107,Mirae Asset Large Cap Direct Growth,State Bank of India,Consumer Goods,7.16,225.91
+121230,DSP MF Mid Cap Direct Growth,Reliance Industries,Financial Services,3.36,177.78
+121230,DSP MF Mid Cap Direct Growth,HDFC Bank,IT & Technology,8.74,225.17
+121230,DSP MF Mid Cap Direct Growth,ICICI Bank,Oil & Gas,5.21,661.21
+121230,DSP MF Mid Cap Direct Growth,Infosys,Consumer Goods,5.57,452.68
+121230,DSP MF Mid Cap Direct Growth,TCS,Telecommunication,8.09,1119.18
+121230,DSP MF Mid Cap Direct Growth,Larsen & Toubro,Construction,7.77,208.56
+121230,DSP MF Mid Cap Direct Growth,Bharti Airtel,Financial Services,7.1,659.87
+121230,DSP MF Mid Cap Direct Growth,ITC,IT & Technology,9.39,810.59
+121230,DSP MF Mid Cap Direct Growth,Axis Bank,Oil & Gas,4.0,275.11
+121230,DSP MF Mid Cap Direct Growth,State Bank of India,Consumer Goods,3.92,448.19
+121353,SBI MF Small Cap Direct Growth,Reliance Industries,Financial Services,8.07,833.01
+121353,SBI MF Small Cap Direct Growth,HDFC Bank,IT & Technology,6.53,838.35
+121353,SBI MF Small Cap Direct Growth,ICICI Bank,Oil & Gas,8.18,293.32
+121353,SBI MF Small Cap Direct Growth,Infosys,Consumer Goods,7.77,964.22
+121353,SBI MF Small Cap Direct Growth,TCS,Telecommunication,9.27,1119.46
+121353,SBI MF Small Cap Direct Growth,Larsen & Toubro,Construction,8.9,946.61
+121353,SBI MF Small Cap Direct Growth,Bharti Airtel,Financial Services,3.96,909.89
+121353,SBI MF Small Cap Direct Growth,ITC,IT & Technology,6.29,490.34
+121353,SBI MF Small Cap Direct Growth,Axis Bank,Oil & Gas,4.83,805.56
+121353,SBI MF Small Cap Direct Growth,State Bank of India,Consumer Goods,5.5,639.55
+121476,HDFC MF ELSS Direct Growth,Reliance Industries,Financial Services,4.66,561.3
+121476,HDFC MF ELSS Direct Growth,HDFC Bank,IT & Technology,6.08,600.99
+121476,HDFC MF ELSS Direct Growth,ICICI Bank,Oil & Gas,4.38,312.09
+121476,HDFC MF ELSS Direct Growth,Infosys,Consumer Goods,9.3,303.27
+121476,HDFC MF ELSS Direct Growth,TCS,Telecommunication,3.94,1125.54
+121476,HDFC MF ELSS Direct Growth,Larsen & Toubro,Construction,5.51,196.65
+121476,HDFC MF ELSS Direct Growth,Bharti Airtel,Financial Services,5.76,896.3
+121476,HDFC MF ELSS Direct Growth,ITC,IT & Technology,6.95,775.41
+121476,HDFC MF ELSS Direct Growth,Axis Bank,Oil & Gas,9.49,599.26
+121476,HDFC MF ELSS Direct Growth,State Bank of India,Consumer Goods,4.29,573.67
+121599,ICICI Prudential Flexi Cap Direct Growth,Reliance Industries,Financial Services,7.87,736.79
+121599,ICICI Prudential Flexi Cap Direct Growth,HDFC Bank,IT & Technology,6.19,577.6
+121599,ICICI Prudential Flexi Cap Direct Growth,ICICI Bank,Oil & Gas,9.32,846.61
+121599,ICICI Prudential Flexi Cap Direct Growth,Infosys,Consumer Goods,7.79,694.85
+121599,ICICI Prudential Flexi Cap Direct Growth,TCS,Telecommunication,6.53,458.09
+121599,ICICI Prudential Flexi Cap Direct Growth,Larsen & Toubro,Construction,4.43,922.16
+121599,ICICI Prudential Flexi Cap Direct Growth,Bharti Airtel,Financial Services,3.38,1171.0
+121599,ICICI Prudential Flexi Cap Direct Growth,ITC,IT & Technology,8.69,988.07
+121599,ICICI Prudential Flexi Cap Direct Growth,Axis Bank,Oil & Gas,7.33,834.1
+121599,ICICI Prudential Flexi Cap Direct Growth,State Bank of India,Consumer Goods,7.84,1110.91
+121722,Nippon India Liquid Direct Growth,Reliance Industries,Financial Services,6.37,327.06
+121722,Nippon India Liquid Direct Growth,HDFC Bank,IT & Technology,3.56,703.89
+121722,Nippon India Liquid Direct Growth,ICICI Bank,Oil & Gas,7.23,1068.07
+121722,Nippon India Liquid Direct Growth,Infosys,Consumer Goods,8.88,893.78
+121722,Nippon India Liquid Direct Growth,TCS,Telecommunication,8.9,1109.34
+121722,Nippon India Liquid Direct Growth,Larsen & Toubro,Construction,4.92,545.15
+121722,Nippon India Liquid Direct Growth,Bharti Airtel,Financial Services,8.41,1186.99
+121722,Nippon India Liquid Direct Growth,ITC,IT & Technology,3.86,1038.53
+121722,Nippon India Liquid Direct Growth,Axis Bank,Oil & Gas,4.64,777.36
+121722,Nippon India Liquid Direct Growth,State Bank of India,Consumer Goods,6.19,856.56
+121845,Kotak Gilt Direct Growth,Reliance Industries,Financial Services,8.8,579.92
+121845,Kotak Gilt Direct Growth,HDFC Bank,IT & Technology,7.71,719.37
+121845,Kotak Gilt Direct Growth,ICICI Bank,Oil & Gas,6.49,1083.78
+121845,Kotak Gilt Direct Growth,Infosys,Consumer Goods,8.15,547.53
+121845,Kotak Gilt Direct Growth,TCS,Telecommunication,6.08,294.73
+121845,Kotak Gilt Direct Growth,Larsen & Toubro,Construction,3.16,589.15
+121845,Kotak Gilt Direct Growth,Bharti Airtel,Financial Services,6.42,716.96
+121845,Kotak Gilt Direct Growth,ITC,IT & Technology,9.44,498.22
+121845,Kotak Gilt Direct Growth,Axis Bank,Oil & Gas,6.67,697.35
+121845,Kotak Gilt Direct Growth,State Bank of India,Consumer Goods,6.73,1023.2
+121968,Axis Multi Cap Direct Growth,Reliance Industries,Financial Services,4.01,546.69
+121968,Axis Multi Cap Direct Growth,HDFC Bank,IT & Technology,6.58,216.14
+121968,Axis Multi Cap Direct Growth,ICICI Bank,Oil & Gas,5.28,550.56
+121968,Axis Multi Cap Direct Growth,Infosys,Consumer Goods,3.96,1147.31
+121968,Axis Multi Cap Direct Growth,TCS,Telecommunication,5.14,818.89
+121968,Axis Multi Cap Direct Growth,Larsen & Toubro,Construction,8.92,649.76
+121968,Axis Multi Cap Direct Growth,Bharti Airtel,Financial Services,3.6,639.75
+121968,Axis Multi Cap Direct Growth,ITC,IT & Technology,4.65,891.05
+121968,Axis Multi Cap Direct Growth,Axis Bank,Oil & Gas,5.48,1040.83
+121968,Axis Multi Cap Direct Growth,State Bank of India,Consumer Goods,7.42,1105.75
