@@ -1,0 +1,41 @@
+scheme_code,scheme_name,amc_name,category,expense_ratio,benchmark,fund_manager,risk_grade
+120123,SBI MF Large Cap Direct Growth,SBI MF,Large Cap,0.69,Nifty 50,R. Sharma,Very High
+120246,HDFC MF Mid Cap Direct Growth,HDFC MF,Mid Cap,0.52,Nifty 100,P. Mehta,Low
+120369,ICICI Prudential Small Cap Direct Growth,ICICI Prudential,Small Cap,0.89,Nifty Midcap 150,S. Agrawal,Moderate
+120492,Nippon India ELSS Direct Growth,Nippon India,ELSS,0.75,BSE SmallCap,A. Verma,Moderate
+120615,Kotak Flexi Cap Direct Growth,Kotak,Flexi Cap,0.4,CRISIL Liquid,V. Joshi,Low
+120738,Axis Liquid Direct Growth,Axis,Liquid,0.65,Nifty 50,N. Kapoor,Low
+120861,Aditya Birla Sun Life Gilt Direct Growth,Aditya Birla Sun Life,Gilt,0.99,Nifty 100,R. Sharma,High
+120984,UTI Multi Cap Direct Growth,UTI,Multi Cap,0.4,Nifty Midcap 150,P. Mehta,Low
+121107,Mirae Asset Large Cap Direct Growth,Mirae Asset,Large Cap,1.1,BSE SmallCap,S. Agrawal,High
+121230,DSP MF Mid Cap Direct Growth,DSP MF,Mid Cap,0.35,CRISIL Liquid,A. Verma,Low
+121353,SBI MF Small Cap Direct Growth,SBI MF,Small Cap,0.52,Nifty 50,V. Joshi,Low
+121476,HDFC MF ELSS Direct Growth,HDFC MF,ELSS,0.9,Nifty 100,N. Kapoor,Very High
+121599,ICICI Prudential Flexi Cap Direct Growth,ICICI Prudential,Flexi Cap,0.74,Nifty Midcap 150,R. Sharma,Very High
+121722,Nippon India Liquid Direct Growth,Nippon India,Liquid,0.82,BSE SmallCap,P. Mehta,Moderate
+121845,Kotak Gilt Direct Growth,Kotak,Gilt,0.48,CRISIL Liquid,S. Agrawal,Low
+121968,Axis Multi Cap Direct Growth,Axis,Multi Cap,1.23,Nifty 50,A. Verma,Moderate
+122091,Aditya Birla Sun Life Large Cap Direct Growth,Aditya Birla Sun Life,Large Cap,0.76,Nifty 100,V. Joshi,Moderate
+122214,UTI Mid Cap Direct Growth,UTI,Mid Cap,0.91,Nifty Midcap 150,N. Kapoor,Low
+122337,Mirae Asset Small Cap Direct Growth,Mirae Asset,Small Cap,0.81,BSE SmallCap,R. Sharma,Low
+122460,DSP MF ELSS Direct Growth,DSP MF,ELSS,0.77,CRISIL Liquid,P. Mehta,Very High
+122583,SBI MF Flexi Cap Direct Growth,SBI MF,Flexi Cap,0.9,Nifty 50,S. Agrawal,Very High
+122706,HDFC MF Liquid Direct Growth,HDFC MF,Liquid,0.76,Nifty 100,A. Verma,High
+122829,ICICI Prudential Gilt Direct Growth,ICICI Prudential,Gilt,1.2,Nifty Midcap 150,V. Joshi,Low
+122952,Nippon India Multi Cap Direct Growth,Nippon India,Multi Cap,0.86,BSE SmallCap,N. Kapoor,High
+123075,Kotak Large Cap Direct Growth,Kotak,Large Cap,0.62,CRISIL Liquid,R. Sharma,Very High
+123198,Axis Mid Cap Direct Growth,Axis,Mid Cap,0.56,Nifty 50,P. Mehta,Low
+123321,Aditya Birla Sun Life Small Cap Direct Growth,Aditya Birla Sun Life,Small Cap,0.75,Nifty 100,S. Agrawal,Moderate
+123444,UTI ELSS Direct Growth,UTI,ELSS,0.9,Nifty Midcap 150,A. Verma,Low
+123567,Mirae Asset Flexi Cap Direct Growth,Mirae Asset,Flexi Cap,0.38,BSE SmallCap,V. Joshi,High
+123690,DSP MF Liquid Direct Growth,DSP MF,Liquid,0.7,CRISIL Liquid,N. Kapoor,High
+123813,SBI MF Gilt Direct Growth,SBI MF,Gilt,0.95,Nifty 50,R. Sharma,High
+123936,HDFC MF Multi Cap Direct Growth,HDFC MF,Multi Cap,0.73,Nifty 100,P. Mehta,High
+124059,ICICI Prudential Large Cap Direct Growth,ICICI Prudential,Large Cap,0.84,Nifty Midcap 150,S. Agrawal,High
+124182,Nippon India Mid Cap Direct Growth,Nippon India,Mid Cap,0.38,BSE SmallCap,A. Verma,High
+124305,Kotak Small Cap Direct Growth,Kotak,Small Cap,1.05,CRISIL Liquid,V. Joshi,High
+124428,Axis ELSS Direct Growth,Axis,ELSS,0.71,Nifty 50,N. Kapoor,Low
+124551,Aditya Birla Sun Life Flexi Cap Direct Growth,Aditya Birla Sun Life,Flexi Cap,0.89,Nifty 100,R. Sharma,Low
+124674,UTI Liquid Direct Growth,UTI,Liquid,0.64,Nifty Midcap 150,P. Mehta,High
+124797,Mirae Asset Gilt Direct Growth,Mirae Asset,Gilt,0.53,BSE SmallCap,S. Agrawal,Very High
+124920,DSP MF Multi Cap Direct Growth,DSP MF,Multi Cap,1.22,CRISIL Liquid,A. Verma,Very High
